@@ -1,0 +1,40 @@
+2020-02-22 11:31:35,590 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-02-22 11:31:40,351 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gcts:plan:0.0.1-SNAPSHOT @ D:\Level 3 Semester 2 My\Microservice Task\plan\pom.xml.
+2020-02-22 11:31:46,851 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /plan/src/main/java
+2020-02-22 11:31:46,852 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plan/src/main/resources
+2020-02-22 11:31:46,864 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /plan/src/main/resources
+2020-02-22 11:31:46,889 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /plan/src/test/java
+2020-02-22 11:31:50,823 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 11:31:50,833 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-22 11:31:50,863 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-22 11:31:50,868 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 11:31:50,869 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Level 3 Semester 2 My\Microservice Task\plan\src\test\resources
+2020-02-22 11:31:57,218 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 11:31:57,227 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-22 11:31:57,232 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-22 11:31:57,238 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 11:31:57,238 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Level 3 Semester 2 My\Microservice Task\plan\src\test\resources
+2020-02-22 11:31:57,249 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 21 sec
+2020-02-22 11:35:46,303 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Level 3 Semester 2 My\Microservice Task\plan
+2020-02-22 11:35:46,306 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2020-02-22 11:35:54,004 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 11:35:54,005 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-22 11:35:54,005 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-22 11:35:54,016 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 11:35:54,016 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Level 3 Semester 2 My\Microservice Task\plan\src\test\resources
+2020-02-22 11:36:26,360 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Level 3 Semester 2 My\Microservice Task\plan
+2020-02-22 11:36:26,361 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-02-22 11:36:40,329 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 11:36:40,330 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-22 11:36:40,332 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-22 11:36:40,334 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 11:36:40,334 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Level 3 Semester 2 My\Microservice Task\plan\src\test\resources
+2020-02-22 11:37:17,252 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Level 3 Semester 2 My\Microservice Task\plan
+2020-02-22 11:37:17,253 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2020-02-22 11:37:33,727 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Level 3 Semester 2 My\Microservice Task\plan
+2020-02-22 11:37:33,728 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-02-22 11:37:47,823 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 11:37:47,824 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-22 11:37:47,826 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-22 11:37:47,828 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 11:37:47,828 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Level 3 Semester 2 My\Microservice Task\plan\src\test\resources
