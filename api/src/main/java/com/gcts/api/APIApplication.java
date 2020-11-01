@@ -1,4 +1,4 @@
-package com.gcts.plan;
+package com.gcts.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,10 +6,10 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 @SpringBootApplication
 @EnableJpaAuditing
-public class PlanApplication {
+public class APIApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(PlanApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(PlanApplication.class, args);
+    }
 
 }

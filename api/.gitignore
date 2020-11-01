@@ -29,4 +29,4 @@ build/
 
 ### VS Code ###
 .vscode/
-/src/main/java/com/gcts/plan/Controller/PlanController.java
+/src/main/java/com/gcts/api/Controller/PlanController.java
