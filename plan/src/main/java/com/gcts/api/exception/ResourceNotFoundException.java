@@ -1,4 +1,4 @@
-package com.gcts.plan.exception;
+package com.gcts.api.exception;
 
 /**
  * Created by Chamodi Sandeepani on 2/22/2020.

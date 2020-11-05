@@ -1,4 +1,4 @@
-package com.gcts.plan.model;
+package com.gcts.api.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import org.springframework.data.annotation.CreatedDate;
@@ -14,14 +14,14 @@ import java.util.Date;
  */
 
 @Entity
-@Table(name = "plan")
+@Table(name = "api")
 @EntityListeners(AuditingEntityListener.class)
 @JsonIgnoreProperties(value = {"createdAt", "updatedAt"},
         allowGetters = true)
-public class Plan implements Serializable{
+public class API implements Serializable{
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Integer pid;
+    private Integer aid;
 
     private String type;
 
@@ -35,11 +35,11 @@ public class Plan implements Serializable{
     @LastModifiedDate
     private Date updatedAt;
     public Integer getPid() {
-        return pid;
+        return aid;
     }
 
-    public void setPid(Integer pid) {
-        this.pid = pid;
+    public void setPid(Integer aid) {
+        this.aid = aid;
     }
 
     public String getType() {
